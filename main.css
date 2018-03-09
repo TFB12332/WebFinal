@@ -1,3 +1,7 @@
+html{
+background-color: #3E7674;
+}
+
 h1{
 display: box;
 margin: 0 auto;
@@ -5,25 +9,56 @@ padding: 10px;
 text-align: center;
 font-family: 'Roboto Mono', monospace;
 font-size: 45px;
+color: #FCB3B6;
 }
 
+.box1{
+    border: 5px solid #000;
+    width: 400px;
+    background-color: #44ADAD;
+}
 
+#welcome{
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: px;
+    align-content: center;
+    text-align: center;
+}
 
+#about{
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+    width: 1200px;
+}
 
+#moreInfo{
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+    width: 1200px;
+}
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border: 3px solid #000;
+}
 
+ul{
+    list-style-type: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+p{
+    font-family: 'Lora', serif;
+}
 
 footer{
     text-align: right;
