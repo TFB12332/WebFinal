@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home  </title>
+    </head>
+    <body>
+        <header>
+            <h1><em>Home Page</em></h1>
+        </header>
+        <section>
+            <h2><strong>Home Page</strong></h2>
+            <p>
+            Welcome to the website. This website will show you into our company.<br/> 
+            Hope you enjoy your visit, and thank you for taking the time to look at our website.<br/>
+            There are some helpful links below to help you navigate around our website.<br/>
+
+            </p>
+            <p>
+            Click here if you wan to check out our awesome products, and all the great features that they have.<br/>
+            <a href="product specs.html">
+                <li>Products Specs</li></a>
+                Click here to get more details about our company, what we are about, and who we really are.<br/>
+                <a href="about us.html">
+                    <li>About Us</li>
+                </a> 
+                Click here if you want to get in touch with us, and our awesome customer service team.<br/>
+                <a href="contact us.html">
+                    <li>Contact Us</li>
+                </a>
+            </p>
+            </section>
+        <footer>Copyright &copy; 2018 by Ashley Snell, Jacob Castro, Kaedian Maxfield, and Joseph Cruz </footer>
+    </body>
+</html>
